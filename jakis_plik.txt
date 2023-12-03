@@ -1,2 +1,9 @@
-"# tester" 
 ten plik edytuję
+jakas inna linijka
+i kolejna
+
+
+
+
+
+i gdzieś w tym miejsciu
